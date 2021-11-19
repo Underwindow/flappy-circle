@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952830710735",
+    "project_id": "flappycircle-70f07",
+    "storage_bucket": "flappycircle-70f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952830710735:android:820676dd38acf8c9dfb8ba",
+        "android_client_info": {
+          "package_name": "com.EvgenyPodoynikov.FlappyCircle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952830710735-dgu2oi6rjmnbgoqcllhbgsh6ma95ss20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-O7BJDD81fZvD216BK8m4RKA7kzQpyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952830710735-dgu2oi6rjmnbgoqcllhbgsh6ma95ss20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
